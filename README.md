@@ -18,10 +18,10 @@ object **Thalis D. Wisniewski** {
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Sou novo nesta área de TI mas estou buscando o máximo de conhecimento possível na Growdev.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** na <a href="http:/growdev.com.br" target="_blank">Growdev</a>.
-- 💼 &nbsp; Trabalhando como **Almoxarifado** na Beira Rio.
-- 🌱 &nbsp; Aprendendo mais sobre **PHP e NODE.js**.
+- 🤔 &nbsp; Atuo como desenvolvedor desde o começo de 2022.
+- 🎓 &nbsp; Estudei **Desenvolvimento Web Full Stack** na <a href="http:/growdev.com.br" target="_blank">Growdev</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Full Stack** na Arezzo&Co.
+- 🌱 &nbsp; Aprendendo mais sobre **Laravel**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
