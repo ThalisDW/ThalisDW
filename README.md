@@ -8,8 +8,8 @@ Curto jogar e olhar filmes e séries nas horas vagas quando não estou codando.
 
 ```kotlin
 object **Thalis D. Wisniewski** {
- val acknowledgements = "Estou cursando Desenvolvimento Web Full Stack na Growdev"
- val languages = listOf(-) 
+ val acknowledgements = "Sou desenvolvedor web full-stack"
+ val languages = listOf(PHP, Laravel, JS, CSS, HTML, React, TS) 
 
 }
 ```
